@@ -1,4 +1,4 @@
-#Sudoku 
+# Sudoku 
 ## Description
 This Sudoku puzzle game is written in x86 assembly language.
 The user is able to move around the sudoku board and input 
